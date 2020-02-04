@@ -1,0 +1,8 @@
+/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/bin/Debug/netcoreapp3.0/Game.deps.json
+/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/bin/Debug/netcoreapp3.0/Game.dll
+/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/bin/Debug/netcoreapp3.0/Game.pdb
+/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/obj/Debug/netcoreapp3.0/Game.csprojAssemblyReference.cache
+/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/obj/Debug/netcoreapp3.0/Game.AssemblyInfoInputs.cache
+/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/obj/Debug/netcoreapp3.0/Game.AssemblyInfo.cs
+/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/obj/Debug/netcoreapp3.0/Game.dll
+/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/obj/Debug/netcoreapp3.0/Game.pdb

@@ -1,0 +1,8 @@
+/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/bin/Debug/netcoreapp3.0/MenuSystem.deps.json
+/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/bin/Debug/netcoreapp3.0/MenuSystem.dll
+/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/bin/Debug/netcoreapp3.0/MenuSystem.pdb
+/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/obj/Debug/netcoreapp3.0/MenuSystem.csprojAssemblyReference.cache
+/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/obj/Debug/netcoreapp3.0/MenuSystem.AssemblyInfoInputs.cache
+/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/obj/Debug/netcoreapp3.0/MenuSystem.AssemblyInfo.cs
+/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/obj/Debug/netcoreapp3.0/MenuSystem.dll
+/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/obj/Debug/netcoreapp3.0/MenuSystem.pdb

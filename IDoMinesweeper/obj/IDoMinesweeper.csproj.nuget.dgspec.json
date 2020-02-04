@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kalevkim/secureprogramming/IDoMinesweeper/IDoMinesweeper/IDoMinesweeper.csproj": {}
+  },
+  "projects": {
+    "/Users/kalevkim/secureprogramming/IDoMinesweeper/ConsoleUserInt/ConsoleUserInt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kalevkim/secureprogramming/IDoMinesweeper/ConsoleUserInt/ConsoleUserInt.csproj",
+        "projectName": "ConsoleUserInt",
+        "projectPath": "/Users/kalevkim/secureprogramming/IDoMinesweeper/ConsoleUserInt/ConsoleUserInt.csproj",
+        "packagesPath": "/Users/kalevkim/.nuget/packages/",
+        "outputPath": "/Users/kalevkim/secureprogramming/IDoMinesweeper/ConsoleUserInt/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kalevkim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/Game.csproj": {
+                "projectPath": "/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/Game.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/Game.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/Game.csproj",
+        "projectName": "Game",
+        "projectPath": "/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/Game.csproj",
+        "packagesPath": "/Users/kalevkim/.nuget/packages/",
+        "outputPath": "/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kalevkim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/kalevkim/secureprogramming/IDoMinesweeper/IDoMinesweeper/IDoMinesweeper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kalevkim/secureprogramming/IDoMinesweeper/IDoMinesweeper/IDoMinesweeper.csproj",
+        "projectName": "IDoMinesweeper",
+        "projectPath": "/Users/kalevkim/secureprogramming/IDoMinesweeper/IDoMinesweeper/IDoMinesweeper.csproj",
+        "packagesPath": "/Users/kalevkim/.nuget/packages/",
+        "outputPath": "/Users/kalevkim/secureprogramming/IDoMinesweeper/IDoMinesweeper/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kalevkim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/kalevkim/secureprogramming/IDoMinesweeper/ConsoleUserInt/ConsoleUserInt.csproj": {
+                "projectPath": "/Users/kalevkim/secureprogramming/IDoMinesweeper/ConsoleUserInt/ConsoleUserInt.csproj"
+              },
+              "/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/Game.csproj": {
+                "projectPath": "/Users/kalevkim/secureprogramming/IDoMinesweeper/Game/Game.csproj"
+              },
+              "/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/MenuSystem.csproj": {
+                "projectPath": "/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/MenuSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/MenuSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/MenuSystem.csproj",
+        "projectName": "MenuSystem",
+        "projectPath": "/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/MenuSystem.csproj",
+        "packagesPath": "/Users/kalevkim/.nuget/packages/",
+        "outputPath": "/Users/kalevkim/secureprogramming/IDoMinesweeper/MenuSystem/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kalevkim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

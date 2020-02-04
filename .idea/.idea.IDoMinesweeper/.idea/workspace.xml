@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a128ca0c-796d-4da2-8db0-062a4837d105" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IDoMinesweeper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IDoMinesweeper/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUserInt/GameUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUserInt/GameUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUserInt/bin/Debug/netcoreapp3.0/ConsoleUserInt.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUserInt/bin/Debug/netcoreapp3.0/ConsoleUserInt.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUserInt/bin/Debug/netcoreapp3.0/ConsoleUserInt.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUserInt/bin/Debug/netcoreapp3.0/ConsoleUserInt.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUserInt/obj/Debug/netcoreapp3.0/ConsoleUserInt.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUserInt/obj/Debug/netcoreapp3.0/ConsoleUserInt.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUserInt/obj/Debug/netcoreapp3.0/ConsoleUserInt.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUserInt/obj/Debug/netcoreapp3.0/ConsoleUserInt.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUserInt/obj/Debug/netcoreapp3.0/ConsoleUserInt.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUserInt/obj/Debug/netcoreapp3.0/ConsoleUserInt.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game/Engine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Game/Engine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game/GameConfigHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Game/GameConfigHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDoMinesweeper/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IDoMinesweeper/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDoMinesweeper/bin/Debug/netcoreapp3.0/ConsoleUserInt.dll" beforeDir="false" afterPath="$PROJECT_DIR$/IDoMinesweeper/bin/Debug/netcoreapp3.0/ConsoleUserInt.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDoMinesweeper/bin/Debug/netcoreapp3.0/ConsoleUserInt.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/IDoMinesweeper/bin/Debug/netcoreapp3.0/ConsoleUserInt.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDoMinesweeper/bin/Debug/netcoreapp3.0/IDoMinesweeper.dll" beforeDir="false" afterPath="$PROJECT_DIR$/IDoMinesweeper/bin/Debug/netcoreapp3.0/IDoMinesweeper.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDoMinesweeper/bin/Debug/netcoreapp3.0/IDoMinesweeper.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/IDoMinesweeper/bin/Debug/netcoreapp3.0/IDoMinesweeper.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDoMinesweeper/obj/Debug/netcoreapp3.0/IDoMinesweeper.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/IDoMinesweeper/obj/Debug/netcoreapp3.0/IDoMinesweeper.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDoMinesweeper/obj/Debug/netcoreapp3.0/IDoMinesweeper.dll" beforeDir="false" afterPath="$PROJECT_DIR$/IDoMinesweeper/obj/Debug/netcoreapp3.0/IDoMinesweeper.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDoMinesweeper/obj/Debug/netcoreapp3.0/IDoMinesweeper.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/IDoMinesweeper/obj/Debug/netcoreapp3.0/IDoMinesweeper.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Game/GameConfigHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Game/CellState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Game/GameSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleUserInt/GameUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MenuSystem/MenuItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MenuSystem/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Game/Engine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IDoMinesweeper/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JsonTest/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MenuSystem/Class1.cs" />
+        <option value="$PROJECT_DIR$/MenuSystem/MenuItem.cs" />
+        <option value="$PROJECT_DIR$/Game/Class1.cs" />
+        <option value="$PROJECT_DIR$/ConsoleUI/Program.cs" />
+        <option value="$PROJECT_DIR$/ConsoleUI/Class1.cs" />
+        <option value="$PROJECT_DIR$/GameUI/Class1.cs" />
+        <option value="$PROJECT_DIR$/ConsoleUserInt/Class1.cs" />
+        <option value="$PROJECT_DIR$/MenuSystem/Menu.cs" />
+        <option value="$PROJECT_DIR$/Game/CheckCell.cs" />
+        <option value="$PROJECT_DIR$/Game/GameSettings.cs" />
+        <option value="$PROJECT_DIR$/JsonTest/Class1.cs" />
+        <option value="$PROJECT_DIR$/Game/CellState.cs" />
+        <option value="$PROJECT_DIR$/ConsoleUserInt/GameUI.cs" />
+        <option value="$PROJECT_DIR$/Game/Engine.cs" />
+        <option value="$PROJECT_DIR$/IDoMinesweeper/Program.cs" />
+        <option value="$PROJECT_DIR$/Game/GameConfigHandler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Rv3u8pClg7mNGMw8dCZYVDi1k9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/IDoMinesweeper/bin/Debug/netcoreapp3.0/IDoMinesweeper.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IDoMinesweeper/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IDoMinesweeper/IDoMinesweeper.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a128ca0c-796d-4da2-8db0-062a4837d105" name="Default Changelist" comment="" />
+      <created>1570533962048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570533962048</updated>
+      <workItem from="1570533964044" duration="2786000" />
+      <workItem from="1570541467008" duration="1357000" />
+      <workItem from="1570543449378" duration="28421000" />
+      <workItem from="1570828559519" duration="1080000" />
+      <workItem from="1570969640551" duration="4588000" />
+      <workItem from="1571052402368" duration="4070000" />
+      <workItem from="1571651125428" duration="10380000" />
+      <workItem from="1571827801729" duration="8314000" />
+      <workItem from="1571984846202" duration="46168000" />
+    </task>
+    <task id="LOCAL-00001" summary="yes">
+      <created>1570973690674</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570973690675</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding validation input: Doesn't accept non int and set maximum size of the board">
+      <created>1570997742575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570997742575</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit 3">
+      <created>1570999581348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570999581348</updated>
+    </task>
+    <task id="LOCAL-00004" summary="yes">
+      <created>1571657780059</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571657780059</updated>
+    </task>
+    <task id="LOCAL-00005" summary="mines">
+      <created>1571842780536</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571842780536</updated>
+    </task>
+    <task id="LOCAL-00006" summary="yes">
+      <created>1572070201697</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572070201697</updated>
+    </task>
+    <task id="LOCAL-00007" summary="yes">
+      <created>1572111833461</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1572111833462</updated>
+    </task>
+    <task id="LOCAL-00008" summary="yes">
+      <created>1572111834021</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1572111834021</updated>
+    </task>
+    <task id="LOCAL-00009" summary="better">
+      <created>1572129182329</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1572129182329</updated>
+    </task>
+    <task id="LOCAL-00010" summary="revealing all mines">
+      <created>1572182036922</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572182036922</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="Adding validation input: Doesn't accept non int and set maximum size of the board" />
+    <MESSAGE value="commit 3" />
+    <MESSAGE value="mines" />
+    <MESSAGE value="yes" />
+    <MESSAGE value="better" />
+    <MESSAGE value="revealing all mines" />
+    <option name="LAST_COMMIT_MESSAGE" value="revealing all mines" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/IDoMinesweeper/Program.cs</url>
+          <line>160</line>
+          <properties documentPath="$PROJECT_DIR$/IDoMinesweeper/Program.cs" initialLine="162">
+            <startOffsets>
+              <option value="4305" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4305" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
